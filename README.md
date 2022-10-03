@@ -19,7 +19,10 @@ Its a python script that automatically fetch members from any telegram group and
 
 
 
+```
 
 	DONT FORGET TO LEAVE A STAR
+
+```
 
 
